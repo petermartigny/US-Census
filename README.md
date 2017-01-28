@@ -1,6 +1,6 @@
 # US-Census
 The US Census dataset contains personal (but anonymized) information about 300 000 american inhabitants.
-The goals of this project is to predict, given an inhabitant's characteristic, whether she/he will earn more or less than $50 000 a year.
+The goals of this mini-project is to predict, given an inhabitant's characteristic, whether she/he will earn more or less than $50 000 a year.
 
 # Data Cleaning and data exploration
 We start by removing unnecessary variables, and explore the characteristics of people who earn more than $50 000 a year.
